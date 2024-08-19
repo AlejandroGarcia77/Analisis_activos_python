@@ -1,6 +1,6 @@
-# Análisis y visualización de datos: Comparativa entre crytomonedas y acciones
+# Análisis y visualización de datos: Comparativa entre criptomonedas y acciones
 
-Este repositorio contiene un notebook titulado **"Práctica 2 visualización de datos: Comparativa entre criptomonedas y acciones"**. El objetivo de este notebook es explorar y visualizar datos comparativos entre diferentes criptomonedas y acciones del mercado.
+El objetivo de este notebook es explorar y visualizar datos comparativos entre diferentes criptomonedas y acciones del mercado.
 
 ## Contenidos
 - Análisis de tendencias y comportamiento de criptomonedas y acciones.
